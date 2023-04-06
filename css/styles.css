@@ -1,0 +1,184 @@
+#title{
+    background-color: #ff4c68;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height:1.2;
+    color: #fff ;
+    
+}
+.container-fluid{
+    padding: 3% 15% ;
+    padding-top: 0px;
+    
+}
+
+#title{
+    padding-top: 5% ;
+   
+   
+}
+
+.nav-item{
+    padding: 0 3% ;
+    font-size:1.5rem;
+    color: #fff;
+
+
+}
+.nav-link{
+  color: #fff;
+}
+
+
+
+.dbtn{
+    margin: 2%;
+}
+
+
+
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem;
+    padding-left: 0px;
+    color: #fff;
+
+}
+.navbar{
+    padding-bottom: 10%;
+}
+.ipn{
+width: 20%;
+rotate: 30deg;
+margin-left: 90px;
+position: absolute ;
+
+
+}
+#features{
+    padding:7% 15%;
+    background-color: #fff;
+    position: relative;
+    z-index:1;
+    
+   
+}
+.col{
+ text-align: center;
+ padding: 5%;
+}
+
+.i{
+    font-size: 2.5rem;
+    color: #ef8172;
+    padding:2%;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    padding-top: 5%;
+}
+p{
+    color: #8f8f8f;
+}
+.i:hover {
+    color: #ff4c68;
+    padding:2%;
+}
+#testimonials{
+padding: 7% 15% ;
+text-align: center;
+background-color: #ef8172;
+color: #fff;
+
+}
+h2{
+    font-family: 'Montserrat', sans-serif ;
+    line-height:1.5;
+    font-size: 2rem;
+
+}
+
+   
+
+
+
+.dog-img{
+width:10%;
+border-radius:100%;
+margin:2%;
+
+}
+#press{
+    background-color:#ef8172;
+    text-align: center;
+   
+    padding: 3% 15%;
+}
+.r{
+    width: 20%;
+    margin:20px 20px 50px;
+}
+
+#pricing{
+    text-align: center;
+    padding:10%;
+    
+}
+
+
+
+
+.btns {
+    margin: 5%;
+}
+
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 7%;
+}
+#tt{
+    color: #fff;
+    font-family:'Montserrat', sans-serif ;
+}
+#footer{
+    background-color: #fff;
+    padding:5% 15%;
+    text-align: center;
+}
+
+
+.si{
+    margin:1%;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:1000px) {
+    .ipn{
+        position: static;
+        rotate: 0deg;
+        width:80%;
+        text-align: center;
+        padding-right:30%;
+    }
+    #title{
+        text-align: center; 
+    }
+    .carddd{
+        margin-left:10%;
+    }
+    
+    
+}
